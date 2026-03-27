@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+Pipfile
+Pipfile.lock
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints
